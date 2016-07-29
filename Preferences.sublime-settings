@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (Colorcoded) (SL).tmTheme",
+	"rulers":
+	[
+		200
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": "auto"
+}

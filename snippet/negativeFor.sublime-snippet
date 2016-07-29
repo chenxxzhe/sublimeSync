@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+for(var i=${1:things}.length;i--;){
+    ${1:things}[i]${2}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>nfor</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

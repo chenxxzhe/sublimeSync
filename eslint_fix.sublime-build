@@ -1,0 +1,7 @@
+{
+
+    "cmd": ["eslint --fix $file"],
+    "shell": true,
+    "path": "/Users/abc/.nvm/versions/node/v6.2.2/bin"
+
+}
