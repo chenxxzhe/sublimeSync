@@ -23,5 +23,13 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": "auto"
+	"wrap_width": "auto",
+
+	"auto_complete_commit_on_tab": true,
+    "auto_complete_with_fields": true,
+
+    "show_line_endings": true,
+
+
+
 }
