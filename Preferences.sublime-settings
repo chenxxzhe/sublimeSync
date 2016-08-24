@@ -1,8 +1,10 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
-	"font_size": 16,
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -19,17 +21,10 @@
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": "auto",
-
-	"auto_complete_commit_on_tab": true,
-    "auto_complete_with_fields": true,
-
-    "show_line_endings": true,
-
-
-
+	"wrap_width": "auto"
 }
