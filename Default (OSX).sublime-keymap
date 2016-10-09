@@ -19,9 +19,9 @@
     { "keys": ["super+;"], "command": "run_macro_file", "args": {"file":"Packages/User/addcoma.sublime-macro"} },
 
     { "keys": ["alt+w"], "command": "move", "args": {"by": "lines", "forward": false} },
-        { "keys": ["alt+s"], "command": "move", "args": {"by": "lines", "forward": true} },
-        { "keys": ["alt+a"], "command": "move", "args": {"by": "characters", "forward": false} },
-        { "keys": ["alt+d"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["alt+s"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["alt+a"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["alt+d"], "command": "move", "args": {"by": "characters", "forward": true} },
 
     { "keys": ["ctrl+alt+q"], "command": "alignment" },
 
