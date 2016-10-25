@@ -25,4 +25,11 @@
 
     { "keys": ["ctrl+alt+q"], "command": "alignment" },
 
+    {
+        "command": "add_current_time",
+        "keys": [
+            "ctrl+shift+,"
+        ]
+    },
+
 ]
