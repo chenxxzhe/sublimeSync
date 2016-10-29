@@ -18,11 +18,18 @@
 
     { "keys": ["super+;"], "command": "run_macro_file", "args": {"file":"Packages/User/addcoma.sublime-macro"} },
 
-    { "keys": ["ctrl+s"], "command": "move", "args": {"by": "lines", "forward": false} },
-        { "keys": ["ctrl+x"], "command": "move", "args": {"by": "lines", "forward": true} },
-        { "keys": ["ctrl+z"], "command": "move", "args": {"by": "characters", "forward": false} },
-        { "keys": ["ctrl+c"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["alt+w"], "command": "move", "args": {"by": "lines", "forward": false} },
+    { "keys": ["alt+s"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["alt+a"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["alt+d"], "command": "move", "args": {"by": "characters", "forward": true} },
 
     { "keys": ["ctrl+alt+q"], "command": "alignment" },
+
+    {
+        "command": "add_current_time",
+        "keys": [
+            "ctrl+shift+,"
+        ]
+    },
 
 ]

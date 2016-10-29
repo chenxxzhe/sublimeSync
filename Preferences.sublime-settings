@@ -5,13 +5,17 @@
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
+
 	"font_size": 17,
+
+
+
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_numbers": false,
+	"line_numbers": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (Colorcoded) (SL).tmTheme",
