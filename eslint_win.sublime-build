@@ -1,0 +1,4 @@
+{
+    "cmd": ["eslint", "--fix", "$file"],
+    "shell": true
+}

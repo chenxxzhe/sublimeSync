@@ -21,7 +21,9 @@
             "osx": [
                 "/Users/abc/.nvm/versions/node/v6.2.2/bin"
             ],
-            "windows": []
+            "windows": [
+                "C:\\Program Files\\nodejs"
+            ]
         },
         "python_paths": {
             "linux": [],
