@@ -10,3 +10,7 @@ encoding_cache.json
 
 .SublimeREPLHistory/
 
+*.crt
+
+
+*.crt
