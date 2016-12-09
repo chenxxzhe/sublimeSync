@@ -12,5 +12,8 @@ encoding_cache.json
 
 *.crt
 
+Projects/
+oscrypto-ca-bundle.crt
 
-*.crt
+
+oscrypto-ca-bundle.crt
