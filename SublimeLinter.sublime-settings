@@ -12,6 +12,19 @@
                 "args": [],
                 "excludes": []
             },
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "",
+                "max-line-length": null,
+                "select": ""
+            },
+            "pyflakes": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "stylelint": {
                 "@disable": false,
                 "args": [],
@@ -27,7 +40,8 @@
                 "/Users/abc/.nvm/versions/node/v6.2.2/bin"
             ],
             "windows": [
-                "C:\\Program Files\\nodejs"
+                "C:\\Program Files\\nodejs",
+                "C:\\Users\\ce\\AppData\\Local\\Programs\\Python\\Python36"
             ]
         },
         "python_paths": {
