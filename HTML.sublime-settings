@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"vue",
-		"wxml"
+		"wxml",
+		"html"
 	]
 }
